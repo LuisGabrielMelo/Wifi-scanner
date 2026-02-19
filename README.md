@@ -158,11 +158,7 @@ CLI (argparse)       → Interfaz de línea de comandos
 
 ---
 
-## 📄 Licencia
 
-Este proyecto está bajo la licencia **MIT**. Ver [LICENSE](LICENSE) para más detalles.
-
----
 
 <p align="center">Hecho con 🐍 Python por <a href="https://github.com/LuisGabrielMelo">LuisGabrielMelo</a></p>
 # Wifi-scanner
